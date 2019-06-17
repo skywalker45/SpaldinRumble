@@ -1,0 +1,289 @@
+[
+    {
+        "control": 0,
+        "id": "Lebron-James",
+        "imageLink": "img/players/lebron.jpg",
+        "name": "Lebron James",
+        "snippet": "Best player of our generation in the league, argueably the best player of all time."
+    },
+    {
+        "control": 1,
+        "id": "Micheal-Jordan",
+        "imageLink": "img/players/jordan.jpg",
+        "name": "Micheal Jordan",
+        "snippet": "Best player of some generation generation. argueably the best player of all time"
+    },
+    {
+        "control": 2,
+        "id": "Kobe-Bryant",
+        "imageLink": "img/players/kobe.jpg",
+        "name": "Kobe Bryant",
+        "snippet": "One of the most elite players of all time, earned the nickname Black Mamba"
+    },
+    {
+        "control": 3,
+        "id": "Kevin-Durant",
+        "imageLink": "img/players/durant.jpg",
+        "name": "Kevin Durant",
+        "snippet": "One of the most skillful player of all time."
+    },
+    {
+        "control": 4,
+        "id": "Steph-Curry",
+        "imageLink": "img/players/curry.jpg",
+        "name": "Steph Curry",
+        "snippet": "Best Three Point shooter of all time."
+    },
+    {
+        "control": 5,
+        "id": "Dwayne-Wade",
+        "imageLink": "img/players/wade.jpg",
+        "name": "Lebron James",
+        "snippet": "One of the most iconic players in the league."
+    },
+    {
+        "control": 6,
+        "id": "Kyrie-Irvine",
+        "imageLink": "img/players/kyrie.jpg",
+        "name": "Kyrie Irvine",
+        "snippet": "Best ball handles in the league, argueably of all time."
+    },
+    {
+        "control": 7,
+        "id": "Chris-Paul",
+        "imageLink": "img/players/paul.jpg",
+        "name": "Chris Paul",
+        "snippet": "Fast paced, and playmaker."
+    },
+    {
+        "control": 8,
+        "id": "James-Harden",
+        "imageLink": "img/players/Harden.jpg",
+        "name": "James Harden",
+        "snippet": "Most Interesting player in the league. Highly skilled, and fast paced."
+    },
+    {
+        "control": 9,
+        "id": "Giannis-Antetokoumpo",
+        "imageLink": "img/players/giannis.jpg",
+        "name": "Giannis Antetokoumpo",
+        "snippet": "Passionate player, really offensive, and fast."
+    },
+    {
+        "control": 10,
+        "id": "Russell-Westbrook",
+        "imageLink": "img/players/westbrook.jpg",
+        "name": "Russell Westbrook",
+        "snippet": "One of Daniels facourite players, super agressive, fast, and passionate."
+    },
+    {
+        "control": 11,
+        "id": "Anthony-Davis",
+        "imageLink": "img/players/davis.jpg",
+        "name": "Anthony Davis",
+        "snippet": "One of the most required players in the league. Height and positioning is a strength."
+    },
+    {
+        "control": 12,
+        "id": "Klay-Thompson",
+        "imageLink": "img/players/klay.jpg",
+        "name": "Klay Thompson",
+        "snippet": "One of the best three point shooters in the league."
+    },
+    {
+        "control": 13,
+        "id": "Tony-Parker",
+        "imageLink": "img/players/tony.jpg",
+        "name": "Tony Parker",
+        "snippet": "Smart, fast and quick on the feet."
+    },
+    {
+        "control": 14,
+        "id": "Devin-Booker",
+        "imageLink": "img/players/booker.jpg",
+        "name": "Devin Booker",
+        "snippet": "Another one of Daniel's favourite players. Promising young talent."
+    },
+    {
+        "control": 15,
+        "id": "Joel-Embiid",
+        "imageLink": "img/players/embiid.jpg",
+        "name": "Joel Embiid",
+        "snippet": "Best player of our generation in the league, argueably the best player of all time."
+    },
+    {
+        "control": 16,
+        "id": "Dwight-Howard",
+        "imageLink": "img/players/howard.jpg",
+        "name": "Dwight Howard",
+        "snippet": "Defensive player, as well as an officesive player. "
+    },
+    {
+        "control": 17,
+        "id": "Draymond-Green",
+        "imageLink": "img/players/draymond.jpg",
+        "name": "Draymond Green",
+        "snippet": "Passionate player, understands the value in movement, and positioning."
+    },
+    {
+        "control": 18,
+        "id": "Paul-George",
+        "imageLink": "img/players/george.jpg",
+        "name": "Paul George",
+        "snippet": "Great game sense, with ability to go off when needed."
+    },
+    {
+        "control": 19,
+        "id": "Lonzo-Ball",
+        "imageLink": "img/players/lonzo.jpg",
+        "name": "Lonzo Ball",
+        "snippet": "Impressive rookie, with ability to improve when required"
+    },
+    {
+        "control": 20,
+        "id": "Blake-Griffin",
+        "imageLink": "img/players/blake.jpg",
+        "name": "Blake Griffin",
+        "snippet": "Great speed and technique, passionate and agressive."
+    },
+    {
+        "control": 21,
+        "id": "Andre-Iguodala",
+        "imageLink": "img/players/Iguodala.jpg",
+        "name": "Andre Iguodala",
+        "snippet": "Really passionate and team oriented player."
+    },
+    {
+        "control": 22,
+        "id": "Jeremy-Lin",
+        "imageLink": "img/players/lebron.jpg",
+        "name": "Jeremy Lin",
+        "snippet": "Has the ability to change the game, at the right moment."
+    },
+    {
+        "control": 23,
+        "id": "Kyle-Lowry",
+        "imageLink": "img/players/lebron.jpg",
+        "name": "Kyle Lowry",
+        "snippet": "A good player."
+    },
+    {
+        "control": 24,
+        "id": "Dirk-Nowitzki",
+        "imageLink": "img/players/lebron.jpg",
+        "name": "Lebron James",
+        "snippet": "Highly experienced and skillful player."
+    },
+    {
+        "control": 25,
+        "id": "Victor-Oladipo",
+        "imageLink": "img/players/lebron.jpg",
+        "name": "Lebron James",
+        "snippet": "Noticably improving player, hardworking and skillful."
+    },
+    {
+        "control": 26,
+        "id": "Julius-Randle",
+        "imageLink": "img/players/lebron.jpg",
+        "name": "Lebron James",
+        "snippet": "Hardworking player with the ability to be significant in games."
+    },
+    {
+        "control": 27,
+        "id": "Jason-Tatum",
+        "imageLink": "img/players/lebron.jpg",
+        "name": "Lebron James",
+        "snippet": "A good player."
+    },
+    {
+        "control": 28,
+        "id": "Rajon-Rondo",
+        "imageLink": "img/players/lebron.jpg",
+        "name": "Lebron James",
+        "snippet": "Very Agressive player, can be very passionate."
+    },
+    {
+        "control": 29,
+        "id": "Derrick-Rose",
+        "imageLink": "img/players/lebron.jpg",
+        "name": "Lebron James",
+        "snippet": "Can be the best in the league if not stopped by injury."
+    },
+    {
+        "control": 30,
+        "id": "JR-Smith",
+        "imageLink": "img/players/lebron.jpg",
+        "name": "Lebron James",
+        "snippet": "Good player."
+    },
+    {
+        "control": 31,
+        "id": "Lance-Stephenson",
+        "imageLink": "img/players/lebron.jpg",
+        "name": "Lebron James",
+        "snippet": "Interesting player, that can fill most rows."
+    },
+    {
+        "control": 32,
+        "id": "Ben-Simmons",
+        "imageLink": "img/players/lebron.jpg",
+        "name": "Lebron James",
+        "snippet": "Stylish player with the ability to make plays and create oppotunity."
+    },
+    {
+        "control": 33,
+        "id": "Isiah-Thomas",
+        "imageLink": "img/players/lebron.jpg",
+        "name": "Lebron James",
+        "snippet": "Good offensive player. Can be very hard to tackile."
+    },
+    {
+        "control": 34,
+        "id": "Pau-Gasol",
+        "imageLink": "img/players/lebron.jpg",
+        "name": "Lebron James",
+        "snippet": "Experienced player, with ability to provide help to team where needed."
+    },
+    {
+        "control": 35,
+        "id": "De'Aaron-Fox",
+        "imageLink": "img/players/lebron.jpg",
+        "name": "Lebron James",
+        "snippet": "Really, fast rookie, with ability to break through, and make plays."
+    },
+    {
+        "control": 36,
+        "id": "Carmelo-Anthony",
+        "imageLink": "img/players/lebron.jpg",
+        "name": "Lebron James",
+        "snippet": "Multi valuable player. Can make plays and create chances."
+    },
+    {
+        "control": 37,
+        "id": "Bam-Adebayo",
+        "imageLink": "img/players/lebron.jpg",
+        "name": "Lebron James",
+        "snippet": "Strong Rookie what goes hard in the paint."
+    },
+    {
+        "control": 38,
+        "id": "Jimmy-Butler",
+        "imageLink": "img/players/lebron.jpg",
+        "name": "Lebron James",
+        "snippet": "Really coodrdinated with Team play, and ball movement with the team"
+    },
+    {
+        "control": 39,
+        "id": "Demar-DeRozan",
+        "imageLink": "img/players/lebron.jpg",
+        "name": "Lebron James",
+        "snippet": "smart, quick thinking, and ability to read plays."
+    },
+    {
+        "control": 40,
+        "id": "DeMarcus-Cousins",
+        "imageLink": "img/players/lebron.jpg",
+        "name": "DeMarcus Cousins",
+        "snippet": "Strong, Fast-Paced, and aggressive player."
+    }
+]
